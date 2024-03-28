@@ -1,0 +1,55 @@
+1)Created dashboard for HR- Diversity & Inversion (PowerBI):
+	https://www.linkedin.com/posts/rajlaxmi-jagdale-031a3a51_pwc-forage-dataanalyst-activity-7039971418108829696-n79I?utm_source=share&utm_medium=member_desktop
+2)Created dashboard for Customer Retention (PowerBI):
+  https://www.linkedin.com/posts/rajlaxmi-jagdale-031a3a51_internship-forage-pwc-activity-7038162395411714048-vQ8U?utm_source=share&utm_medium=member_desktop
+3)Created dashboard for Call Center (PowerBI):
+  https://www.linkedin.com/posts/rajlaxmi-jagdale-031a3a51_internship-forage-pwc-activity-7038160876855586816-hyDO?utm_source=share&utm_medium=member_desktop
+
+PROJECTS
+______________________________________________________________________
+
+AirLine Dashboard (PowerBI):
+Using PowerBI did hands-on practice making dashboards using DAX
+Created dashboard using different measures, using different visuals, functions and also used csv and excel sheet file data.
+https://www.linkedin.com/posts/rajlaxmi-jagdale-031a3a51_onestopdata-growthschool-powerbi-activity-6997077949585756160-PlFX?utm_source=share&utm_medium=member_desktop
+
+Swiggy Dataset (Excel Sheet):
+Created Pivot tables
+Using of Vlookup formulas
+Created different graphs in excel sheet 
+
+Capstone Projects (Google Colab Notebook , Python):
+Gender Voice Classification:
+Had a dataset which contains some statistical information about the audio frequencies of different male and female voices. 
+Based on the information provided, I found which voice belongs to which gender using the RandomForestClassifier algorithm.
+
+Predicting Pulsar Star:
+Here, the legitimate pulsar examples are a minority positive class (less in numbers), and the remaining examples are a majority negative class.
+XGBoost Classifier classification model which can accurately detect the class 1 examples.
+Credit Card Clients in Taiwan 2005:
+Based on the financial capability of a client, they get a credit limit, i.e., the maximum amount they can spend in a month through a credit card.The credit card companies maintain comprehensive data about each of their clients. 
+By analyzing the data, they can know what would be the maximum amount they won't be able to recover from their clients yet able to make a significant profit in a financial year to run a sustainable business.
+Replaced the wrong values with correct ones and created a box plot, histogram, and count plot to find trends in the dataset.
+     
+Wedify App:
+This app is for the detail events to be held of the marriage 
+Designing and development of app using Kotlin and Firebase db
+Getting requirements from client and having a communication with them
+
+YouPlay App:
+This app is where you can search nearby tennis players and schedule the match along with place
+ Designing and development of app using Java and Firebase db
+Getting requirements from client and having a communication with them
+
+Vibe App:
+
+This app was specifically created for a Paint store company. All the details were managed over here. From stock till orders.
+Handling team of Dot.net and IOS
+Getting requirements from client and having a communication with them
+
+Teplo App:
+
+An IOT project connected with tea brewing bottle
+Designing and development of app using Java
+
+
